@@ -1,0 +1,10 @@
+# sample config
+
+remote_server: prominic@aggregator.prominic.net
+remote_root: /tmp/test
+
+excludes:
+  - .git
+  - .build
+
+   
